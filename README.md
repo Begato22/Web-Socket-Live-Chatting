@@ -1,3 +1,6 @@
+![headder-line](https://github.com/user-attachments/assets/cc606fd4-8bd6-4f0e-938a-d079d4e39457)
+
+
 # Flutter WebSocket Simulation 🌐 🚀
 
 
@@ -44,5 +47,9 @@ This Flutter application simulates a WebSocket server using the WebSocket Echo T
 ## Conclusion
 
 This Flutter app demonstrates basic WebSocket functionality and can serve as a foundation for more advanced WebSocket-based applications. For further development, consider adding features like message history, connection status indicators, or error handling.
+
+![footer-line](https://github.com/user-attachments/assets/4f8f1b48-7142-4fa9-aa30-f2713b42f796)
+
+
 
 
