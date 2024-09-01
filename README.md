@@ -24,3 +24,24 @@ This Flutter application simulates a WebSocket server using the WebSocket Echo T
    - The application listens for incoming messages and updates the UI with the server’s response.
 
 
+## Usage
+
+1. **Run the App**: Start the Flutter app on your device or emulator.
+2. **Interact with UI**: Enter a message and press "Send".
+3. **View Responses**: Observe the echoed message displayed on the screen.
+
+## Dependencies
+
+- `web_socket_channel`: Provides WebSocket support for Flutter.
+
+## Project Structure
+
+- `lib/`: Contains the main application logic.
+- `assets/`: Includes any images or assets used by the app.
+- `pubspec.yaml`: Manages dependencies and assets.
+
+## Conclusion
+
+This Flutter app demonstrates basic WebSocket functionality and can serve as a foundation for more advanced WebSocket-based applications. For further development, consider adding features like message history, connection status indicators, or error handling.
+
+
