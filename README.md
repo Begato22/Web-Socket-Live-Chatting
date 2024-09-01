@@ -1,6 +1,6 @@
 # Flutter WebSocket Simulation
 
-![Presentation1](https://github.com/user-attachments/assets/2e636821-c560-4762-92ff-fe4dbe074874)
+![Presentation1-removebg-preview](https://github.com/user-attachments/assets/e5b2b97e-9c97-49ab-99b2-4568f290c909)
 
 
 ## Overview
